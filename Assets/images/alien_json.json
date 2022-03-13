@@ -1,0 +1,98 @@
+{
+    "frames": {
+
+        "aliens_grey_1.png": {
+            "frame": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_grey_2.png": {
+            "frame": { "x": 64, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_grey_death_1.png": {
+            "frame": { "x": 128, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_grey_death_2.png": {
+            "frame": { "x": 192, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_red_1.png": {
+            "frame": { "x": 256, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_red_2.png": {
+            "frame": { "x": 320, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_red_death_1.png": {
+            "frame": { "x": 384, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_red_death_2.png": {
+            "frame": { "x": 448, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_blue_1.png": {
+            "frame": { "x": 512, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_blue_2.png": {
+            "frame": { "x": 576, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_blue_death_1.png": {
+            "frame": { "x": 640, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "aliens_blue_death_2.png": {
+            "frame": { "x": 704, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        }
+    },
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "alien_json.png",
+        "format": "RGBA8888",
+        "size": { "w": 768, "h": 64 },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:e135dcd135c7f7c8f2efb73c32d17766:e8109354299d4221eed2911e11a6e6c3:d4a963ea3c732d10e144a73e9489a0dd$"
+    }
+}
